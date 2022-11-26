@@ -89,7 +89,7 @@ export const Btn = styled.button`
     margin-bottom: auto;
     margin-left: auto;
     border: none;
-    color: transparent;
+    /* color: transparent; */
   }
 `;
 
