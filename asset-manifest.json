@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/FE-Allab/static/css/main.7acaea2f.css",
-    "main.js": "/FE-Allab/static/js/main.07d3183d.js",
+    "main.css": "/FE-Allab/static/css/main.f9749b7a.css",
+    "main.js": "/FE-Allab/static/js/main.38f50971.js",
+    "static/media/proximaNovaFont.otf": "/FE-Allab/static/media/proximaNovaFont.7bc9ce404c297c24f210.otf",
+    "static/media/symbol-defs.svg": "/FE-Allab/static/media/symbol-defs.0cd510ec6e9f6d5ea74eef3ada986f2c.svg",
     "index.html": "/FE-Allab/index.html",
-    "main.7acaea2f.css.map": "/FE-Allab/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/FE-Allab/static/js/main.07d3183d.js.map"
+    "main.f9749b7a.css.map": "/FE-Allab/static/css/main.f9749b7a.css.map",
+    "main.38f50971.js.map": "/FE-Allab/static/js/main.38f50971.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.f9749b7a.css",
+    "static/js/main.38f50971.js"
   ]
 }
