@@ -89,8 +89,12 @@ export const Btn = styled.button`
     margin-bottom: auto;
     margin-left: auto;
     border: none;
-    /* color: transparent; */
+    color: transparent;
   }
+`;
+
+export const BookMark = styled.svg`
+  background-color: transparent;
 `;
 
 export const DiscriptionWrap = styled.div`

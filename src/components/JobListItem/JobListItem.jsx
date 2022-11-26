@@ -10,6 +10,7 @@ import {
   RatingAndTimeWrap,
   TimeAndBtnWWrap,
   Btn,
+  BookMark,
   DiscriptionWrap,
   Title,
   Svg,
@@ -33,9 +34,9 @@ export const JobListItem = ({ info }) => {
               <TimeAndBtnWWrap>
                 <DateOfPost createdTime={updatedAt} />
                 <Btn type="button">
-                  <svg width={32} height={32}>
+                  <BookMark width={32} height={32}>
                     <use href={`${svg}#icon-bookmarkIcon`}></use>
-                  </svg>
+                  </BookMark>
                 </Btn>
               </TimeAndBtnWWrap>
             </RatingAndTimeWrap>
