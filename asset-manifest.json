@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FE-Allab/static/css/main.f9749b7a.css",
-    "main.js": "/FE-Allab/static/js/main.bd480db7.js",
+    "main.js": "/FE-Allab/static/js/main.a0872b9f.js",
     "static/media/proximaNovaFont.otf": "/FE-Allab/static/media/proximaNovaFont.7bc9ce404c297c24f210.otf",
-    "static/media/symbol-defs.svg": "/FE-Allab/static/media/symbol-defs.0cd510ec6e9f6d5ea74eef3ada986f2c.svg",
+    "static/media/symbol-defs.svg": "/FE-Allab/static/media/symbol-defs.3fa69cfb77a4e984e37a18dc9794e039.svg",
     "index.html": "/FE-Allab/index.html",
     "main.f9749b7a.css.map": "/FE-Allab/static/css/main.f9749b7a.css.map",
-    "main.bd480db7.js.map": "/FE-Allab/static/js/main.bd480db7.js.map"
+    "main.a0872b9f.js.map": "/FE-Allab/static/js/main.a0872b9f.js.map"
   },
   "entrypoints": [
     "static/css/main.f9749b7a.css",
-    "static/js/main.bd480db7.js"
+    "static/js/main.a0872b9f.js"
   ]
 }
